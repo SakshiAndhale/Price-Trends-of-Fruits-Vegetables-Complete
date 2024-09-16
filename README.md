@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project involves two datasets that contain detailed information on the **retail prices of various fruits and vegetables**. Each dataset provides insights into pricing, yield, cup-equivalent size, and value offered by different fruits and vegetables across various forms (fresh, canned, frozen, dried). The goal of this project is to extract meaningful insights and help retailers make informed decisions regarding inventory, pricing, and marketing strategies.
+This project involves two datasets that contain detailed information on the **retail prices of various fruits and vegetables**. Each dataset provides insights into pricing, yield, cup-equivalent size, and value offered by different fruits and vegetables across various forms (fresh, canned, frozen, and dried). This project aims to extract meaningful insights and help retailers make informed decisions regarding inventory, pricing, and marketing strategies.
 
 ## Table of Contents
 
@@ -20,8 +20,10 @@ This project involves two datasets that contain detailed information on the **re
 
 ![Screenshot 2024-09-13 122922](https://github.com/user-attachments/assets/6f3684aa-ba5a-48a2-b5d8-9fce3176592e)
 
-
 **Vegetable Economics - Retail & Yield Analysis Dashboard**
+
+![Screenshot 2024-09-14 220918](https://github.com/user-attachments/assets/f2cbd484-c94e-4082-85ae-3610f0441bef)
+
 
 ## Objective
 
@@ -51,7 +53,7 @@ The fruits dataset offers detailed pricing on commonly consumed fruits in differ
 
 ## Data Cleaning
 
-To ensure the datasets were suitable for analysis, we applied several data cleaning methods, including:
+To ensure the datasets were suitable for analysis, we applied several data-cleaning methods, including:
 
 1. **Handling Missing Values:**  
    Missing values in critical columns like retail price, yield, and cup-equivalent size were filled using the **mean value** for similar fruits and vegetables in the same form. For example, if a price for canned peaches was missing, it was replaced by the average price of other canned fruits.
@@ -85,7 +87,7 @@ To answer the key questions, we created several visualizations, each focusing on
    A stacked bar chart comparing the retail price across different forms (fresh, canned, frozen, dried) of fruits and vegetables.
 
 6. **Cup-Equivalent Size Distribution:**  
-   A bar chart comparing the cup-equivalent size for different fruits and vegetables to identify which offer the most substantial portions.
+   A bar chart comparing the cup-equivalent size for different fruits and vegetables to identify which offers the most substantial portions.
 
 ## Key Insights
 
