@@ -7,7 +7,7 @@ This project involves two datasets that contain detailed information on the **re
 ## Table of Contents
 
 1. [Objective](#objective)
-2. [Final Dashboards](#final-dashbaords)
+2. [Final Dashboards](#final-dashbaords) 
 3. [Dataset Overview](#dataset-overview)
 4. [Data Cleaning](#data-cleaning)
 5. [Visualizations](#visualizations)
@@ -17,6 +17,9 @@ This project involves two datasets that contain detailed information on the **re
 ## Final Dashboards
 
 **Fruit Economics - Retail and Yield Analysis Dashboard**
+
+![Screenshot 2024-09-13 122922](https://github.com/user-attachments/assets/6f3684aa-ba5a-48a2-b5d8-9fce3176592e)
+
 
 **Vegetable Economics - Retail & Yield Analysis Dashboard**
 
