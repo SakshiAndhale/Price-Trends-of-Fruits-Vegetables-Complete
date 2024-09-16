@@ -7,11 +7,18 @@ This project involves two datasets that contain detailed information on the **re
 ## Table of Contents
 
 1. [Objective](#objective)
-2. [Dataset Overview](#dataset-overview)
-3. [Data Cleaning](#data-cleaning)
-4. [Visualizations](#visualizations)
-5. [Key Insights](#key-insights)
-6. [Conclusion](#conclusion)
+2. [Final Dashboards](#final-dashbaords)
+3. [Dataset Overview](#dataset-overview)
+4. [Data Cleaning](#data-cleaning)
+5. [Visualizations](#visualizations)
+6. [Key Insights](#key-insights)
+7. [Conclusion](#conclusion)
+
+## Final Dashboards
+
+**Fruit Economics - Retail and Yield Analysis Dashboard**
+
+**Vegetable Economics - Retail & Yield Analysis Dashboard**
 
 ## Objective
 
