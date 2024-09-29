@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project involves two datasets that contain detailed information on the **retail prices of various fruits and vegetables**. Each dataset provides insights into pricing, yield, cup-equivalent size, and value offered by different fruits and vegetables across various forms (fresh, canned, frozen, and dried). This project aims to extract meaningful insights and help retailers make informed decisions regarding inventory, pricing, and marketing strategies.
+This project involves two datasets that contain detailed information on the **retail prices of various fruits and vegetables**. Each dataset provides insights into pricing, yield, cup-equivalent size, and value offered by different fruits and vegetables across multiple forms (fresh, canned, frozen, and dried). This project aims to extract meaningful insights and help retailers make informed decisions regarding inventory, pricing, and marketing strategies.
 
 ## Table of Contents
 
@@ -119,7 +119,7 @@ This analysis has revealed significant insights that can aid **retailers** in ma
 
 - **High-priced items** like Asparagus and Avocados should be positioned as premium products.
 - **Affordable items** like Bananas, Carrots, and Onions should be marketed as cost-effective, value-driven products.
-- **Fresh produce**, which offers the highest yield and better price-to-cup equivalent size ratios, should be a focal point for retailers looking to provide value.
+- **Fresh produce** which offers the highest yield and better price-to-cup equivalent size ratios, should be a focal point for retailers looking to provide value.
 - **Dried and Canned forms** are ideal for long-term storage, though they come at a higher cost per unit, which should be taken into account when setting pricing strategies.
 
 Through these insights, retailers can optimize their offerings to better meet the diverse needs of their customers, from budget-conscious shoppers to those seeking premium products.
